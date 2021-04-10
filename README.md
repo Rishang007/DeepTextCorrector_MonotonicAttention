@@ -1,5 +1,7 @@
 # DeepTextCorrector_MonotonicAttention
 
+[![HitCount](http://hits.dwyl.com/rishang007/DeepTextCorrector_MonotonicAttention.svg)](http://hits.dwyl.com/rishang007/DeepTextCorrector_MonotonicAttention)
+
 ## Introduction  
 
 Sequence-to-Sequence models are proving to be one of the best applications of Artificial Intelligence in the field of Natural Language Processing. Attention mechanism has improved the seq2seq models a lot by a simple concept of mimicking the human way of understanding a sentence.  
