@@ -6,7 +6,7 @@
 
 Sequence-to-Sequence models are proving to be one of the best applications of Artificial Intelligence in the field of Natural Language Processing. Attention mechanism has improved the seq2seq models a lot by a simple concept of mimicking the human way of understanding a sentence.  
 
-### In this blog, I have build a machine learning model which corrects basic grammatical mistakes in a sentence using Monotonic Attention.  
+### In this blog, I have build a machine learning model which corrects basic grammatical mistakes in a sentence using Monotonic Attention.  This was packaged and made live on AWS server with a basic UI on a webpage
 
 
 Some of the perturbations addressed by my model are-  
